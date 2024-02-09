@@ -6,10 +6,21 @@
 *TODO:* In the first project we had trained ML models using AutoML and Hyperdrive. This project was to deploy the best model from the run to create an endpoint. Also, how to consume the deployed endpoint and to test it. In this project we also had to create an AutoML pipeline and eployed it as well to create an endpoint. Swagger API's was also used in this project to test the endpoints.
 
 ## Architectural Diagram
-*TODO*: Provide an architectual diagram of the project and give an introduction of each step. An architectural diagram is an image that helps visualize the flow of operations from start to finish. In this case, it has to be related to the completed project, with its various stages that are critical to the overall flow. For example, one stage for managing models could be "using Automated ML to determine the best model". 
+*TODO*: 
+![alt text](https://github.com/bhupendrasolanki/Operationalizing-Machine-Learning/blob/main/udacity-p2.drawio.png)
 
 ## Key Steps
-*TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
+*TODO*: The below steps are followed.
+1. Benchmarking the dataset.
+![alt text](https://github.com/bhupendrasolanki/Operationalizing-Machine-Learning/blob/main/dataset.PNG)
+
+2.The AutoML setup
+![alt text](https://github.com/bhupendrasolanki/Operationalizing-Machine-Learning/blob/main/automl1.PNG)
+
+3. Completed AutoML
+![alt text](https://github.com/bhupendrasolanki/Operationalizing-Machine-Learning/blob/main/completed_automl.PNG)
+
+4. ![alt text](https://github.com/bhupendrasolanki/Operationalizing-Machine-Learning/blob/main/deployed_model.PNG)
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
