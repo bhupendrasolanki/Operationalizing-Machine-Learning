@@ -20,10 +20,19 @@
 3. Completed AutoML
 ![alt text](https://github.com/bhupendrasolanki/Operationalizing-Machine-Learning/blob/main/completed_automl.PNG)
 
-4. ![alt text](https://github.com/bhupendrasolanki/Operationalizing-Machine-Learning/blob/main/deployed_model.PNG)
+4. Application Insights Enabled
+  ![alt text](https://github.com/bhupendrasolanki/Operationalizing-Machine-Learning/blob/main/application_insights.PNG)
+
+5. Deployed AutoML model endpoint
+![alt text](https://github.com/bhupendrasolanki/Operationalizing-Machine-Learning/blob/main/deployed_model.PNG)
+
+6. Endpoint Working and Results
+![alt text](https://github.com/bhupendrasolanki/Operationalizing-Machine-Learning/blob/main/endpoint.PNG)
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
+The recodring of the video is given below.
+https://www.youtube.com/watch?v=zNuAlGt3lzQ
 
 ## Standout Suggestions
 *TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
