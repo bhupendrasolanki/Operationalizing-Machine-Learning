@@ -29,8 +29,16 @@
 6. Endpoint Working and Results
 ![alt text](https://github.com/bhupendrasolanki/Operationalizing-Machine-Learning/blob/main/endpoint.PNG)
 
+7. The swagger API's
+![alt text](https://github.com/bhupendrasolanki/Operationalizing-Machine-Learning/blob/main/swagger_apis.PNG)
+
+8. The finished pipeline
+![alt text](https://github.com/bhupendrasolanki/Operationalizing-Machine-Learning/blob/main/published_pipeline.PNG)
+
+
+
 ## Screen Recording
-*TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
+
 The recodring of the video is given below.
 https://www.youtube.com/watch?v=zNuAlGt3lzQ
 
